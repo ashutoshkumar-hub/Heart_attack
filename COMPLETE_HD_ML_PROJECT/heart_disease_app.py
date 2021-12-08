@@ -13,7 +13,7 @@ app = Flask(__name__)
 # Bind home function to URL
 @app.route('/')
 def home():
-    return render_template('Heart Disease Classifier.html')
+    return render_template('main.html')
 
 # Bind predict function to URL
 @app.route('/predict', methods =['POST'])

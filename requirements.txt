@@ -78,7 +78,7 @@ scikit-image==0.18.1
 shap==0.40.0
 simplegeneric==0.8.1
 
-sip==4.19.13
+
 
 sklearn==0.0
 slicer==0.0.7
@@ -87,11 +87,11 @@ statsmodels==0.12.2
 
 tables==3.6.1
 tabulate==0.8.9
-tangled-up-in-unicode==0.1.0
+
 
 terminado==0.9.4
 
-unicodecsv==0.14.1
+
 
 visions==0.7.4
 
@@ -99,8 +99,8 @@ webencodings==0.5.1
 
 widgetsnbextension==3.5.1
 
-win-unicode-console==0.5
-wincertstore==0.2
+
+
 wrapt==1.12.1
 
 xlwings==0.23.0

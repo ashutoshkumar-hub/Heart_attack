@@ -2,7 +2,7 @@
 anaconda-client==1.7.2
 anaconda-navigator==2.0.3
 
-anyio @ file:///C:/ci/anyio_1620153418380/work/dist
+
 appdirs==1.4.4
 argh==0.26.2
 argon2-cffi @ file:///C:/ci/argon2-cffi_1613037959010/work
